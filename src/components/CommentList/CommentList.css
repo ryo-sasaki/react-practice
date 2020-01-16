@@ -1,0 +1,14 @@
+ul {
+    padding: 0;
+}
+
+.Comment-List-item {
+    margin-bottom: 5px;
+    padding: 10px;
+    list-style: none;
+    border: 1px solid black;
+}
+
+.Comment-List-item:hover {
+    background-color: rgb(144, 227, 245);
+}
